@@ -11,7 +11,7 @@
 
 ## Nafta Dataset
 
-<img align="left" width="800px" src="https://github.com/zahraghorbani/nafta/blob/main/DATASET.PNG" />
+<img align="left" width="100px" src="https://github.com/zahraghorbani/nafta/blob/main/DATASET.PNG" />
 
 ## Oil Spill Classification
 
