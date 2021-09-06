@@ -10,7 +10,7 @@
 
 ### Article 
 
-
+- [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper]!
 Please cite this article if you use the dataset, model or method(s), or find the article useful in your research. Thank you!
 
 ## Nafta Dataset 
@@ -30,5 +30,5 @@ Please cite this article if you use the dataset, model or method(s), or find the
 
 
 
-
+[Paper]:    https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664 
 
