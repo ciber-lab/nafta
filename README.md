@@ -41,7 +41,15 @@ VGG16 architecture is modified and fine tuned for oil spill classification. You 
 
 
 
-## Oil Spill Segmentation 
+## Oil Spill Semantic Segmentation
+
+Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model [here][PSPNet].
+
+<img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/PSPNet.PNG" />
+
+
+## Oil Spill Instance Segmentation
+
 
 
 ## Vessel and Oil Rig Detection 
