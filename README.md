@@ -37,7 +37,7 @@ The Nafta dataset contains 1,292 images. In total, 70% of images are taken by dr
 
 VGG16 architecture is modified and fine tuned for oil spill classification. You can download the trained model [here][VGG16].
 
-<img align="center" width="1500px" src="https://github.com/zahraghorbani/nafta/blob/main/Classification.PNG" />
+<img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Classification.PNG" />
 
 
 
@@ -59,7 +59,6 @@ VGG16 architecture is modified and fine tuned for oil spill classification. You 
 [Models]: https://drive.google.com/drive/folders/1Q_J3UO96GHecrTBfYOMggAwgshPYAnav?usp=sharing
 [Mask R-CNN]: https://drive.google.com/drive/folders/12mluR5B4ops2vbdzUirw6yToBiidEgkG?usp=sharing
 [PSPNet]: https://drive.google.com/drive/folders/1Rb9QgJhsp2hgxU3kXlf4EYFyD_Yt4j64?usp=sharing
-[YOLOv3]:
 [VGG16]: https://drive.google.com/drive/folders/1Fkv6t45LOuguG7-TCgKv6p0NoVnJk33Q?usp=sharing
 
 
