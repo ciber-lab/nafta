@@ -4,7 +4,10 @@
 
 # Oil Spill Detection and Segmentation
 
+<img align="center" width="700px" src="https://github.com/zahraghorbani/nafta/blob/main/Summary.PNG" />
 
+<br />
+<br />
 
 ## Introduction 
 
@@ -12,12 +15,12 @@ This repository presents project Nafta, which focuses on oil spill detection and
 
 ### Article 
 
- Please cite this article if you use the dataset, model or method(s), or find the article useful in your research. Thank you!
+ Please cite this article if you use the dataset, model or method(s), or find the article useful in your research:
 
   [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper1]
   
   
- Citation:Ghorbani Z., Behzadan A.H. (2021), “Monitoring Offshore Oil Pollution Using Multi-Class CNNs”, Environmental Pollution, 289: 117884.
+ Citation: Ghorbani Z., Behzadan A.H. (2021), “Monitoring Offshore Oil Pollution Using Multi-Class CNNs”, Environmental Pollution, 289: 117884.
  
 
 
