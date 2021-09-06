@@ -50,6 +50,9 @@ Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned f
 
 ## Oil Spill Instance Segmentation
 
+Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model [here][Mask R-CNN].
+
+<img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Mask%20RCNN.PNG" />
 
 
 ## Vessel and Oil Rig Detection 
