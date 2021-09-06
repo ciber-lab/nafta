@@ -29,7 +29,10 @@ The Nafta dataset contains 1,292 images. In total, 70% of images are taken by dr
 <img align="left" width="150px" src="https://github.com/zahraghorbani/nafta/blob/main/DATASET.PNG" />
 
 
-<br>
+<br />
+<br />
+<br />
+<br />
 
 
 ## Oil Spill Classification 
