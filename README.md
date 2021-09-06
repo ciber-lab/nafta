@@ -8,6 +8,8 @@
 
 ## Introduction 
 
+This repository presents project Nafta, which focuses on oil spill detection and segmentation. In addition, YOLOv3 model is implemented to detect oil rigs and vessels. All models trained on the Nafta dataset can be download [Here][Models]. Please read the following article for more detailed information about the project and procedures. 
+
 ### Article 
 
  Please cite this article if you use the dataset, model or method(s), or find the article useful in your research. Thank you!
