@@ -21,7 +21,7 @@
 
 ## Nafta Dataset 
 
-[Download the Nafta dataset] [Dataset]
+[Download the Dataset]
 
 
 
@@ -40,7 +40,7 @@
 
 
 [Paper1]: https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664 
-[Dataset]: https://drive.google.com/drive/folders/1bnTM3WqSa6pFIQ_Wikzxf5HwV0J4t_Ko?usp=sharing
+[Download the Dataset]: https://drive.google.com/drive/folders/1bnTM3WqSa6pFIQ_Wikzxf5HwV0J4t_Ko?usp=sharing
 [Masks]: https://drive.google.com/drive/folders/1cXkwEDM9P65_2SPxEzoCpoo6-R_skig5?usp=sharing
 [Annotations]: https://drive.google.com/drive/folders/1ti97Q6f78nYo29_1gP0zLhJUAgs-_cul?usp=sharing
 [Models]: https://drive.google.com/drive/folders/1Q_J3UO96GHecrTBfYOMggAwgshPYAnav?usp=sharing
