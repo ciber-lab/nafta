@@ -2,7 +2,7 @@
 <img align="left" width="350px" src="https://github.com/zahraghorbani/nafta/blob/main/NAFTA_Logo.jpg" />
 
 
-# Oil Spill Detection and Segmentation
+## Oil Spill Detection and Segmentation
 
 <img align="center" width="700px" src="https://github.com/zahraghorbani/nafta/blob/main/Summary.PNG" />
 
