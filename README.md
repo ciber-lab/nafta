@@ -23,6 +23,13 @@
 
 [Download the Dataset]
 
+-The Nafta dataset contains 1,292 images. In total, 70% of images are taken by drones (low altitude), 16% by satellites (high altitude), and the remaining 14% from first-person views. There are 1,431 instances of the “oil spill” class, 959 instances of the “vessel” class, and 316 instances of the “oil rig” class (See the Venn Diagram Below) 
+
+
+<img align="left" width="150px" src="https://github.com/zahraghorbani/nafta/blob/main/DATASET.PNG" />
+
+
+
 
 
 ## Oil Spill Classification 
