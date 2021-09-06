@@ -10,8 +10,9 @@
 
 ### Article 
 
-- [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper]!
-Please cite this article if you use the dataset, model or method(s), or find the article useful in your research. Thank you!
+- Please cite this article if you use the dataset, model or method(s), or find the article useful in your research. Thank you!
+- [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper]
+
 
 ## Nafta Dataset 
 
