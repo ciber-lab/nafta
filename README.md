@@ -57,6 +57,11 @@ Mask R-CNN architecture is modified and fine tuned for oil spill instance segmen
 
 ## Vessel and Oil Rig Detection 
 
+YOLOv3 model is used for vessel and oil rig detection. You can download the trained model [here][YOLOv3].
+
+<img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Vessel%20and%20rig%20detection.PNG" />
+
+
 
 
 
@@ -71,6 +76,7 @@ Mask R-CNN architecture is modified and fine tuned for oil spill instance segmen
 [Mask R-CNN]: https://drive.google.com/drive/folders/12mluR5B4ops2vbdzUirw6yToBiidEgkG?usp=sharing
 [PSPNet]: https://drive.google.com/drive/folders/1Rb9QgJhsp2hgxU3kXlf4EYFyD_Yt4j64?usp=sharing
 [VGG16]: https://drive.google.com/drive/folders/1Fkv6t45LOuguG7-TCgKv6p0NoVnJk33Q?usp=sharing
+[YOLOv3]: https://drive.google.com/drive/folders/1277Hn0kEcOWU6-1W6X-OMHc_wYy9_Cjh?usp=sharing
 
 
 
