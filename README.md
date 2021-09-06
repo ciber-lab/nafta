@@ -6,8 +6,6 @@
 
 <img align="center" width="700px" src="https://github.com/zahraghorbani/nafta/blob/main/Summary.PNG" />
 
-<br />
-<br />
 
 ## Introduction 
 
