@@ -43,21 +43,21 @@ VGG16 architecture is modified and fine tuned for oil spill classification. You 
 
 ## Oil Spill Semantic Segmentation
 
-Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model [here][PSPNet].
+Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model [here][PSPNet]. Grondtruth masks for the oil spill class can be found [here][Masks].
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/PSPNet.PNG" />
 
 
 ## Oil Spill Instance Segmentation
 
-Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model [here][Mask R-CNN].
+Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model [here][Mask R-CNN]. Grondtruth masks for the oil spill class can be found [here][Masks].
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Mask%20RCNN.PNG" />
 
 
 ## Vessel and Oil Rig Detection 
 
-YOLOv3 model is used for vessel and oil rig detection. You can download the trained model [here][YOLOv3].
+YOLOv3 model is used for vessel and oil rig detection. You can download the trained model [here][YOLOv3]. The annotations can be found [here][Annotations].
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Vessel%20and%20rig%20detection.PNG" />
 
