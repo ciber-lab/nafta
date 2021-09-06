@@ -10,7 +10,7 @@
 
 ### Articles 
 
-- Please cite these articles if you use the dataset, model or method(s), or find the articles useful in your research. Thank you!
+ Please cite these articles if you use the dataset, model or method(s), or find the articles useful in your research. Thank you!
 
   [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper1]
   
@@ -29,7 +29,7 @@
 <img align="left" width="150px" src="https://github.com/zahraghorbani/nafta/blob/main/DATASET.PNG" />
 
 
-
+<br />
 
 
 ## Oil Spill Classification 
