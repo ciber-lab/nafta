@@ -1,8 +1,8 @@
-<img align="middle" width="350px" src="https://github.com/zahraghorbani/nafta/blob/main/NAFTA_Logo.jpg" />
+<img align="center" width="350px" src="https://github.com/zahraghorbani/nafta/blob/main/NAFTA_Logo.jpg" />
 
 # Nafta: Oil Spill Detection and Segmentation
 
-<img align="middle" width="800px" src="https://github.com/zahraghorbani/nafta/blob/main/Summary.PNG" />
+<img align="center" width="800px" src="https://github.com/zahraghorbani/nafta/blob/main/Summary.PNG" />
 
 ## Introduction
 
