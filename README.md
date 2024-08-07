@@ -69,14 +69,13 @@ YOLOv3 model is used for vessel and oil rig detection. You can download the trai
 
 
 [Paper1]: https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664 
-[Download the Dataset]: https://drive.google.com/drive/folders/1bnTM3WqSa6pFIQ_Wikzxf5HwV0J4t_Ko?usp=sharing
-[Masks]: https://drive.google.com/drive/folders/1cXkwEDM9P65_2SPxEzoCpoo6-R_skig5?usp=sharing
-[Annotations]: https://drive.google.com/drive/folders/1ti97Q6f78nYo29_1gP0zLhJUAgs-_cul?usp=sharing
-[Models]: https://drive.google.com/drive/folders/1Q_J3UO96GHecrTBfYOMggAwgshPYAnav?usp=sharing
-[Mask R-CNN]: https://drive.google.com/drive/folders/12mluR5B4ops2vbdzUirw6yToBiidEgkG?usp=sharing
-[PSPNet]: https://drive.google.com/drive/folders/1Rb9QgJhsp2hgxU3kXlf4EYFyD_Yt4j64?usp=sharing
-[VGG16]: https://drive.google.com/drive/folders/1Fkv6t45LOuguG7-TCgKv6p0NoVnJk33Q?usp=sharing
-[YOLOv3]: https://drive.google.com/drive/folders/1277Hn0kEcOWU6-1W6X-OMHc_wYy9_Cjh?usp=sharing
-
+[Download the Dataset]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Images?csf=1&web=1&e=MFCsJP
+[Masks]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Masks?csf=1&web=1&e=oVKAyw
+[Annotations]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Labels?csf=1&web=1&e=TiFIQs
+[Models]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models?csf=1&web=1&e=a8MvgU
+[Mask R-CNN]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/Mask%20R-CNN?csf=1&web=1&e=Hv3pT3
+[PSPNet]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/PSPNet?csf=1&web=1&e=SHgkF7
+[VGG16]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/VGG16?csf=1&web=1&e=d4dC24
+[YOLOv3]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/YOLOv3?csf=1&web=1&e=qekdTC
 
 
