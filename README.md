@@ -40,7 +40,7 @@ VGG16 architecture is modified and fine tuned for oil spill classification. You 
 
 ## Oil Spill Semantic Segmentation
 
-Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model from the "PSPNet" subfolder under the "Models" folder in the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
+Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model from the "PSPNet" subfolder under the "Models" folder of the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/PSPNet.PNG" />
 
