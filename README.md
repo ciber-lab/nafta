@@ -15,7 +15,7 @@ This repository presents project Nafta, which focuses on oil spill detection and
 
  Please cite this article if you use the dataset, model or method(s), or find the article useful in your research:
 
-  [Monitoring offshore oil pollution using multi-class convolutional neural networks][Paper1]
+  [Monitoring offshore oil pollution using multi-class convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664)
   
   
  Citation: Ghorbani Z., Behzadan A.H. (2021), “Monitoring Offshore Oil Pollution Using Multi-Class CNNs”, Environmental Pollution, 289: 117884.
@@ -32,7 +32,7 @@ The Nafta dataset contains 1,292 images. In total, 70% of images are taken by dr
 
 ## Oil Spill Classification 
 
-VGG16 architecture is modified and fine tuned for oil spill classification. You can download the trained model from the corresponding subfolder in the dataset.
+VGG16 architecture is modified and fine tuned for oil spill classification. You can download the trained model from the "VGG16" subfolder under the "Models" folder in the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Classification.PNG" />
 
@@ -40,38 +40,20 @@ VGG16 architecture is modified and fine tuned for oil spill classification. You 
 
 ## Oil Spill Semantic Segmentation
 
-Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model [here][PSPNet]. Grondtruth masks for the oil spill class can be found [here][Masks].
+Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned for oil spill semantic segmentation. You can download the trained model from the "PSPNet" subfolder under the "Models" folder in the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/PSPNet.PNG" />
 
 
 ## Oil Spill Instance Segmentation
 
-Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model [here][Mask R-CNN]. Grondtruth masks for the oil spill class can be found [here][Masks].
+Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model from the "Mask R-CNN" subfolder under the "Models" folder in the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Mask%20RCNN.PNG" />
 
 
 ## Vessel and Oil Rig Detection 
 
-YOLOv3 model is used for vessel and oil rig detection. You can download the trained model [here][YOLOv3]. The annotations can be found [here][Annotations].
+YOLOv3 model is used for vessel and oil rig detection. You can download the trained model from the "YOLOv3" subfolder under the "Models" folder in the dataset. The annotations can be found in the "Labels" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Vessel%20and%20rig%20detection.PNG" />
-
-
-
-
-
-
-
-
-[Paper1]: https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664 
-[Download the Dataset]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/Egfr7fAU8VxGslQBNmoyztABAewB3Kwu6FnWlojHD6r-Nw?e=PJMjdr
-[Masks]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsczYifmSpJEvKpB_QnyyNcB5QOsciKb2Le9tYNjEjc-MQ?e=t7ikdv
-[Annotations]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EjfMsZrNwjBIiWHANiGb9MMBHTBj2bw8kD-cP6zNlsNcpg?e=lPdOuU
-[Models]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsXQW5WXTwVBnWw-Z1bvHr4BnCCjY4OWwHsPprrKoiUrwA?e=SdJYFe
-[Mask R-CNN]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EgEuc5vr4zJHs1HLwHWpxJUBfgyKCINLjUJQ_sRUMPpXIQ?e=vaUstv
-[PSPNet]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EiB66WM7ww5DlyhnDNQQ7bUB0RGRnBX-J2eaO5-Yyxd_Aw?e=b3mhwS
-[VGG16]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EkicvSQBK3FPmnT6NJmrUNIB_E1GYLHEC4iSDMI8EIpy2w?e=QMtBnk
-[YOLOv3]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EtqBBDL2ADpBmeSH4yIoj8UB-RFWzq5YuWqrjppjLXjH0w?e=pHh8BP
-
