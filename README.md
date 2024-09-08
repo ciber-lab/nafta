@@ -69,13 +69,12 @@ YOLOv3 model is used for vessel and oil rig detection. You can download the trai
 
 
 [Paper1]: https://www.sciencedirect.com/science/article/abs/pii/S0269749121014664 
-[Download the Dataset]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Images?csf=1&web=1&e=MFCsJP
-[Masks]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Masks?csf=1&web=1&e=oVKAyw
-[Annotations]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Labels?csf=1&web=1&e=TiFIQs
-[Models]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models?csf=1&web=1&e=a8MvgU
-[Mask R-CNN]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/Mask%20R-CNN?csf=1&web=1&e=Hv3pT3
-[PSPNet]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/PSPNet?csf=1&web=1&e=SHgkF7
-[VGG16]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/VGG16?csf=1&web=1&e=d4dC24
-[YOLOv3]: https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/nafta/Models/YOLOv3?csf=1&web=1&e=qekdTC
-
+[Download the Dataset]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/Egfr7fAU8VxGslQBNmoyztABAewB3Kwu6FnWlojHD6r-Nw?e=PJMjdr
+[Masks]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsczYifmSpJEvKpB_QnyyNcB5QOsciKb2Le9tYNjEjc-MQ?e=t7ikdv
+[Annotations]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EjfMsZrNwjBIiWHANiGb9MMBHTBj2bw8kD-cP6zNlsNcpg?e=lPdOuU
+[Models]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsXQW5WXTwVBnWw-Z1bvHr4BnCCjY4OWwHsPprrKoiUrwA?e=SdJYFe
+[Mask R-CNN]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EgEuc5vr4zJHs1HLwHWpxJUBfgyKCINLjUJQ_sRUMPpXIQ?e=vaUstv
+[PSPNet]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EiB66WM7ww5DlyhnDNQQ7bUB0RGRnBX-J2eaO5-Yyxd_Aw?e=b3mhwS
+[VGG16]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EkicvSQBK3FPmnT6NJmrUNIB_E1GYLHEC4iSDMI8EIpy2w?e=QMtBnk
+[YOLOv3]: https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EtqBBDL2ADpBmeSH4yIoj8UB-RFWzq5YuWqrjppjLXjH0w?e=pHh8BP
 
