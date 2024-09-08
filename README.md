@@ -32,7 +32,7 @@ The Nafta dataset contains 1,292 images. In total, 70% of images are taken by dr
 
 ## Oil Spill Classification 
 
-VGG16 architecture is modified and fine tuned for oil spill classification. You can download the trained model from the "VGG16" subfolder under the "Models" folder in the dataset.
+VGG16 architecture is modified and fine tuned for oil spill classification. You can download the trained model from the "VGG16" subfolder under the "Models" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Classification.PNG" />
 
@@ -47,13 +47,13 @@ Pyramid Scene Parsing Network (PSPNet) architecture is modified and fine tuned f
 
 ## Oil Spill Instance Segmentation
 
-Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model from the "Mask R-CNN" subfolder under the "Models" folder in the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
+Mask R-CNN architecture is modified and fine tuned for oil spill instance segmentation. You can download the trained model from the "Mask R-CNN" subfolder under the "Models" folder of the dataset. Grondtruth masks for the oil spill class can be found in the "Masks" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Mask%20RCNN.PNG" />
 
 
 ## Vessel and Oil Rig Detection 
 
-YOLOv3 model is used for vessel and oil rig detection. You can download the trained model from the "YOLOv3" subfolder under the "Models" folder in the dataset. The annotations can be found in the "Labels" folder of the dataset.
+YOLOv3 model is used for vessel and oil rig detection. You can download the trained model from the "YOLOv3" subfolder under the "Models" folder of the dataset. The annotations can be found in the "Labels" folder of the dataset.
 
 <img align="center" width="1300px" src="https://github.com/zahraghorbani/nafta/blob/main/Vessel%20and%20rig%20detection.PNG" />
